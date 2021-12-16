@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Connect with me  / 
-<div align="center">
+## Connect with me  
+<div align="left">
  <a href="https://www.linkedin.com/in/akshay-jadhav1998/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -15,6 +15,12 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+ ---
+
+|<img  src="https://github-readme-stats.vercel.app/api?username=official-akshayjadhav&show_icons=true&theme=highcontrast"/>|<img  src="https://github-readme-streak-stats.herokuapp.com/?user=official-akshayjadhav&theme=highcontrast&ring=cccc00&fire=cccc00&currStreakLabel=00e6e6&sideLabels=e6e600"/>|
+|---|---|
+
 
 <!--
 **official-akshayjadhav/official-akshayjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
