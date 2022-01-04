@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am Akshay Jadhav.
-ME(A/R)N Developer &nbsp;• &nbsp; Blockchainer  &nbsp;• &nbsp;  MSBI  &nbsp;• &nbsp;  .Net MVC/ASP (C#)
-and much more...checkout repos to get idea!
+<span style="color:blue">ME(A/R)N Developer</span> &nbsp;• &nbsp; Blockchainer  &nbsp;• &nbsp;  MSBI  &nbsp;• &nbsp;  .Net MVC/ASP (C#)   
+and much more... checkout repos to get idea!
 ## Connect with me  
 <div align="left">
  <a href="https://www.linkedin.com/in/akshay-jadhav1998/" target="_blank">
