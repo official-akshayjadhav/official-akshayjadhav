@@ -1,4 +1,4 @@
-### Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am Akshay Jadhav.
 ME(A/R)N Developer &nbsp;• &nbsp; Blockchainer  &nbsp;• &nbsp;  MSBI  &nbsp;• &nbsp;  .Net MVC/ASP (C#)  
 ## Connect with me  
