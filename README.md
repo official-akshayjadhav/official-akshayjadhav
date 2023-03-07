@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am Akshay Jadhav.
-part time [Building a second brain](https://www.buildingasecondbrain.com/)! and full time tech explorer.
+part time [Building a second brain](https://www.buildingasecondbrain.com/)! and full time technology explorer.
 ## Connect with me  
 <div align="left">
  <a href="https://www.linkedin.com/in/akshay-jadhav1998/" target="_blank">
