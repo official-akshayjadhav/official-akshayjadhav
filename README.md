@@ -1,10 +1,11 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Akshay this side,
-My obsession with the idea of writing piece of code is a way to communicate with a machine which will help me to get things done!
-Which eventually lead me towards becoming a Software Engineer. 
-Here is a quick glance of my dev journey!
+#### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#### Akshay this side,
+My obsession with the idea of writing piece of code is a way to communicate with a machine which will help me to get things done!<br/>
+Which eventually lead me towards becoming a Software Engineer.<br/>
+Here is a quick glance of my dev journey!<br/>
 
-## Connect with me  
+---
+### Connect with me  
 <div align="left">
  <a href="https://www.linkedin.com/in/akshay-jadhav1998/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
