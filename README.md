@@ -1,7 +1,7 @@
 #### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### Akshay this side,
 My obsession with the idea of writing piece of code is a way to communicate with a machine which will help me to get things done!<br/>
-Which eventually lead me towards becoming a Software Engineer.<br/>
+And it eventually lead me towards becoming a Software Engineer.<br/>
 Here is a quick glance of my dev journey!<br/>
 
 ---
