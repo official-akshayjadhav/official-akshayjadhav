@@ -22,6 +22,3 @@ Here is a quick glance of my dev journey!<br/>
 </div>
 
  ---
-
-|<img  src="https://github-readme-stats.vercel.app/api?username=official-akshayjadhav&show_icons=true&theme=highcontrast"/>|<img  src="https://github-readme-streak-stats.herokuapp.com/?user=official-akshayjadhav&theme=highcontrast&ring=cccc00&fire=cccc00&currStreakLabel=00e6e6&sideLabels=e6e600"/>|
-|---|---|
