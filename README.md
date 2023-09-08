@@ -10,6 +10,8 @@ Here is a quick glance of my dev journey!<br/>
  <a href="https://www.linkedin.com/in/akshay-jadhav1998/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
+ ### Tech profiles
 <a href="https://www.hackerrank.com/Akshay_jadhav?hr_r=1" target="_blank">
 <img src=https://img.shields.io/badge/hackerrank-black?&style=for-the-badge&logo=hackerrank&logoColor=whit alt=hackerrank style="margin-bottom: 5px;" />
 </a>
