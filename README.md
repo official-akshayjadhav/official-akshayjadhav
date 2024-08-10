@@ -12,6 +12,9 @@ Here repos are quick glance of my dev journey...<br/>
 </a>
 
  ### Tech profiles
+<a href="https://leetcode.com/u/akshayj9809/" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-black?&style=for-the-badge&logo=leetcode&logoColor=whit alt=leetcode style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.hackerrank.com/Akshay_jadhav?hr_r=1" target="_blank">
 <img src=https://img.shields.io/badge/hackerrank-black?&style=for-the-badge&logo=hackerrank&logoColor=whit alt=hackerrank style="margin-bottom: 5px;" />
 </a>
