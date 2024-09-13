@@ -1,8 +1,6 @@
-#### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### Akshay this side,
-My obsession with the idea of writing 'piece of code' is a way to communicate with a machine which will help me to get things done!<br/>
-And it eventually lead me towards becoming a Software Engineer.<br/>
-Here repos are quick glance of my dev journey...<br/>
+Experienced Software Engineer with 4 years of expertise in back-end development, specializing in back-end
+system design. Proficient in cloud technologies (AWS Certified, Azure) and DevOps practices. Keen to leverage
+my skill set to drive success and innovation in a dynamic and growing organization.
 
 ---
 ### Connect with me  
