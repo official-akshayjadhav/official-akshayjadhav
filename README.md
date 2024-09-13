@@ -1,8 +1,5 @@
-Experienced Software Engineer with 4 years of expertise in back-end development.<br/>
-specializing in back-end system design. Proficient in cloud technologies (AWS Certified, Azure) and DevOps practices.<br/>
-Keen to leverage my skill set to drive success and innovation in a dynamic and growing organization.
+I'm an experienced Software Engineer with 4 years of expertise in back-end development, focusing on back-end system design. I’m proficient in cloud technologies, including AWS (certified) and Azure, as well as DevOps practices.
 
----
 ### Connect with me  
 <div align="left">
  <a href="https://www.linkedin.com/in/akshay-jadhav1998/" target="_blank">
