@@ -8,13 +8,11 @@ my skill set to drive success and innovation in a dynamic and growing organizati
  <a href="https://www.linkedin.com/in/akshay-jadhav1998/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
- ### Tech profiles
+ <a href="https://www.hackerrank.com/Akshay_jadhav?hr_r=1" target="_blank">
+<img src=https://img.shields.io/badge/hackerrank-black?&style=for-the-badge&logo=hackerrank&logoColor=whit alt=hackerrank style="margin-bottom: 5px;" />
+</a>
 <a href="https://leetcode.com/u/akshayj9809/" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-black?&style=for-the-badge&logo=leetcode&logoColor=whit alt=leetcode style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerrank.com/Akshay_jadhav?hr_r=1" target="_blank">
-<img src=https://img.shields.io/badge/hackerrank-black?&style=for-the-badge&logo=hackerrank&logoColor=whit alt=hackerrank style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.freecodecamp.org/akshayjadhav" target="_blank">
 <img src=https://img.shields.io/badge/freecodecamp-green?&style=for-the-badge&logo=freecodecamp&logoColor=black alt=twitter style="margin-bottom: 5px;" />
